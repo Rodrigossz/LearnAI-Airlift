@@ -55,9 +55,6 @@ All labs have an approximate duration of 1 hour and start with an introduction o
   - [Final Case / Hackathon](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-final-case.md)
   - Airlift Discussion, Q&A, and Feedback
 
-## Further Learning
-
-Check out the all of our [LearnAI courses](https://aka.ms/lap) and [our team's site](https://learnanalytics.microsoft.com/home/index) to find upcoming trainings, Training Partners and more.
 
 ## Contact
 
