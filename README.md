@@ -1,8 +1,19 @@
-# Apps & Agents / Knowledge Mining
+# LearnAI Team - Apps & Agents / Knowledge Mining Airlift
 
 ![Header](./slides/header.png)
 
-## Microsoft AI Airlift: Intelligent Apps & Agents + Knowledge Mining
+## IMPORTANT MESSAGE - CONTENT RETIREMENT NOTICE
+
+The LearnAI team appreciates your visit, but this training was retired in 2019 and no further maintenance will be done. The team no longer exists and there is no creation of new content. You can use this material as is, no issues or PRs will be considered.
+
+To learn more about AI and Knowledge Mining, check this resources:
+
++ Microsoft AI School - http://aka.ms/ai-school
++ Azure Cognigite Search - Knowledge Mining Solution Accelerator - http://aka.ms/kmsolutions
++ Azure Cognigite Search - Knowledge Mining Workshop - http://aka.ms/kmw1
++ Microsoft AI Customer Engineering Team Blog - http://aka.ms/ACE-Blog
+
+Thank you for the visit!
 
 ## About this course
 
